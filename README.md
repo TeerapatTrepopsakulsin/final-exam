@@ -3,3 +3,9 @@
 - Fork, then, clone this repo
 - Read the instructions given in the course's Google Classroom and start coding
 - Once you are done, push your final code to your Github repo and modify this README to report on the work you have done
+
+### Report
+- The code is successfully works.
+- All choice are completed.
+- Cannot find any bugs.
+- However, the code is not perfectly clean.
